@@ -41,3 +41,7 @@ This project involves developing an image slider that can display multiple image
 - **Google Fonts:** Used for the Montserrat font.
 - **GSAP:** Used for animations and transitions.
 - **ImagesLoaded:** Used to ensure images are fully loaded before displaying the slider.
+
+## Live Demo
+
+Check out the live demo of the animated login page [here](https://meghanakollavajjala.github.io/dynamic-image-slider/).
