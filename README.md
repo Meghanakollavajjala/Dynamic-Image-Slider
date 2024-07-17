@@ -44,4 +44,4 @@ This project involves developing an image slider that can display multiple image
 
 ## Live Demo
 
-Check out the live demo of the animated login page [here](https://meghanakollavajjala.github.io/Dynamic-Image-Slider/).
+Check out the live demon of the dynamic image slider [here](https://meghanakollavajjala.github.io/Dynamic-Image-Slider/).
